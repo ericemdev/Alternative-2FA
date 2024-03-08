@@ -1,7 +1,7 @@
 {
   "hosting": {
-    "site": "pwa-authen",
     "public": "dist",
+    "site": "alternative-2fa",
     "ignore": [
       "firebase.json",
       "**/.*",
